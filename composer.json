@@ -1,0 +1,16 @@
+{
+    "name": "jitendrajagtap/arithmatic-operation",
+    "description": "This package is to perform arithmatic operations.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Jitendra Jagtap",
+            "email": "jitendrajagtap90@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"jitendrajagtap\\": "src/"}
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
