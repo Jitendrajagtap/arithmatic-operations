@@ -12,5 +12,7 @@
         "psr-4": {"jitendrajagtap\\": "src/"}
     },
     "minimum-stability": "stable",
-    "require": {}
+    "require": {
+        "php": "^7.2"       
+    }
 }
