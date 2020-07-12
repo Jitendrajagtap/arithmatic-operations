@@ -2,6 +2,9 @@
     "name": "jitendrajagtap/arithmatic-operation",
     "description": "This package is to perform arithmatic operations.",
     "type": "library",
+    "require": {
+        "php": ">=7.0.0"       
+    }
     "authors": [
         {
             "name": "Jitendra Jagtap",
